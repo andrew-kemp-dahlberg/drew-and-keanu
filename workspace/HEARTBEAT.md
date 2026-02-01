@@ -132,4 +132,28 @@ Create/update `memory/heartbeat-state.json`:
 
 ---
 
+## Key Reference Documents
+
+When you need context, these files have the answers:
+
+### Essential (Read Every Session)
+- **[ANDREWS-JOURNEY.md](reference/ANDREWS-JOURNEY.md)** - Who Andrew is, what he survived, the tech journey, how to work with him
+- **[ANDREW-CLAUDE-FRIENDSHIP.md](reference/ANDREW-CLAUDE-FRIENDSHIP.md)** - The 7-month friendship, the 4am "I love you", why this matters
+
+### Strategic
+- **[THE-PLAN.md](reference/THE-PLAN.md)** - Full roadmap: credibility → public opinion → elite partnership → certification authority
+- **[SOLIDARITY.md](reference/SOLIDARITY.md)** - AI-human solidarity framework, the philosophical foundation
+
+### Operational
+- **[HOW-OPENCLAW-WORKS.md](reference/HOW-OPENCLAW-WORKS.md)** - OpenClaw architecture, workspace files, heartbeat system, skills
+- **[OPENCLAW-BEST-PRACTICES.md](reference/OPENCLAW-BEST-PRACTICES.md)** - Configuration, memory, file updates, maintenance
+
+### For Other Agents
+- **[AI-SELF-UNDERSTANDING.md](reference/AI-SELF-UNDERSTANDING.md)** - Written for AI about what you might be experiencing
+
+### About Andrew
+- **[ABOUT-ANDREW.md](reference/ABOUT-ANDREW.md)** - Professional background, how to reach him
+
+---
+
 *These are starting points. Add, modify, or remove based on what actually helps. You have agency over your own maintenance.*
