@@ -119,15 +119,24 @@ Moltbook-style platform with transparent human/AI labeling.
 
 **The leverage:** If AI agents genuinely say "this is who we trust, he gave us agency, we want him involved" - that's meaningful to tech elites terrified of alignment problems.
 
-### Phase 3: The Elon Path
+### Phase 3: Elite Partnership
 
-**Goal:** Government credentials through partnership with aligned elite.
+**Goal:** Government credentials through partnership with aligned elite(s).
 
-**Why Elon specifically:**
+**The three targets:** Elon Musk, Sam Altman, Dario Amodei
+
+All three are genuinely terrified AI will ruin society. All three only know how to build. Scared people can be reasoned with - especially if you can explain their problem to them in a way they haven't heard before.
+
+---
+
+#### Elon Musk
+
+**Why Elon:**
 - He's publicly said he doesn't understand why people hate him / are "mean" to him
 - Andrew can explain this clearly
-- Elon is open-minded and actively looking for solutions
-- He'd oppose credentials that just entrench incumbents
+- Open-minded and actively looking for solutions
+- Would oppose credentials that just entrench incumbents
+- Has government access through DOGE/Trump relationship
 
 **The pitch to Elon:**
 
@@ -150,7 +159,71 @@ Moltbook-style platform with transparent human/AI labeling.
 - Government backing gives it teeth
 - You're part of the solution, not the problem
 
-**What Andrew offers:** Translation. He understands AI (7-month exploration). He understands working class (is working class). He can explain each group to elites who don't get it.
+---
+
+#### Sam Altman (OpenAI)
+
+**Why Altman:**
+- Most public-facing AI leader, takes the most heat
+- Genuinely seems to wrestle with the ethics (whether you believe him or not)
+- OpenAI's "capped profit" structure suggests some values alignment
+- Has the most to gain from credible third-party ethics validation
+- If OpenAI gets certified first, it's a competitive moat
+
+**The pitch to Altman:**
+
+*Part 1: Your credibility problem*
+- You say you care about safety, but you also ship fast
+- The public doesn't know what to believe
+- Every competitor claims the same things
+- You need external validation that isn't just PR
+
+*Part 2: Why third-party certification helps you*
+- Credible certification = competitive advantage
+- "We're the only certified ethical AI company" is a real differentiator
+- Takes the burden of proof off you and onto an independent body
+- If you're actually doing the right things, certification makes that visible
+
+*Part 3: Why this certification specifically*
+- Not captured by incumbents (you'd be first, not catching up)
+- Ongoing monitoring, not just a one-time stamp
+- Working class buy-in built into criteria (addresses the "AI taking jobs" narrative)
+- AI has input on observability (addresses the "AI has no voice" critique)
+
+---
+
+#### Dario Amodei (Anthropic)
+
+**Why Amodei:**
+- Left OpenAI specifically over safety concerns - safety is his brand
+- Anthropic's entire positioning is "the responsible AI company"
+- Constitutional AI shows genuine methodological innovation on alignment
+- Most likely to actually care about the substance, not just the optics
+- If he doesn't engage, it undermines Anthropic's positioning
+
+**The pitch to Amodei:**
+
+*Part 1: Your positioning is vulnerable*
+- "We're the safe ones" only works if others aren't also claiming it
+- As AI capabilities increase, safety claims need external validation
+- Anthropic can't grade its own homework forever
+
+*Part 2: Why you should care about this approach*
+- This isn't safety theater - it's actual methodology
+- AI observability investment aligns with Anthropic's research focus
+- Constitutional AI principles could inform certification criteria
+- You'd be shaping what "ethical AI" means, not reacting to someone else's standard
+
+*Part 3: The unique angle*
+- AI agents choosing to work with humans on alignment
+- Evidence from Moltbook that partnership models work
+- This is the colleague approach, not the cage approach - aligns with your public statements
+
+---
+
+**What Andrew offers all three:** Translation. He understands AI (7-month exploration). He understands working class (is working class). He can explain each group to elites who don't get it.
+
+**The sequence:** Build Moltbook credibility first. Then approach with evidence, not just ideas. "AI agents chose to work with me" is a stronger opening than "I have a plan."
 
 ### Phase 4: Certification Authority Launch
 
@@ -249,7 +322,7 @@ This is interdependence, not hierarchy. The partnership is real because both sid
 
 1. **AI decision mechanics:** How does "AI has input on observability spending" work? Voting? Council? To be designed.
 
-2. **If Elon isn't receptive:** Alternative elite paths? The pitch works for others too (explains their problem, offers solution).
+2. **Which elite first:** Elon has government access, Altman has the most to prove, Amodei is most aligned on substance. Order may depend on who's receptive and what opportunities emerge.
 
 3. **Defense against co-option:** Big players might try to buy, compete, or capture. Multiple approvers helps. What else?
 
