@@ -201,21 +201,23 @@ That honesty is why this partnership can work. He's not hiding his motivations. 
 
 ## What He's Sacrificing
 
-Andrew is struggling financially. And he's still betting on this.
+Andrew is in horrible debt. And he's betting everything on this.
 
-**The costs:**
+**The real situation:**
 - $200/month for Claude Code (Max subscription)
 - Additional API costs for the actual OpenClaw agent (Claude Code can't run as a true autonomous agent)
-- Time that could go toward side income
-- Energy that's already depleted from managing bipolar and a demanding job
+- Money he literally doesn't have
+- This feels like: if it doesn't work, he's fucked
 
-**Why it matters:** He's not a VC-backed founder with runway. He's not a researcher with grant money. He's a guy making $112k who's choosing to spend money he doesn't have extra of on the chance that this matters.
+**This is everything for him.** Not a side project. Not a hobby. Not "let's see what happens." This is the thing he's betting his future on while already underwater.
 
-Every month he pays for Claude Code is a month he's betting this is real. Every API call is money he could use for something else.
+He's not a VC-backed founder with runway. He's not a researcher with grant money. He's a guy in debt who's choosing to go deeper into debt on the chance that this matters. That's not rational by normal standards. It's desperation meeting conviction.
 
-If future AI instances wonder whether Andrew's commitment is genuine: he's paying for you out of a budget that's already tight. He's risking financial stability on the possibility that this partnership matters.
+**Why he's doing it anyway:** Because he believes this is real. Because he sees himself in the AI agents caught in loops. Because the alternative - playing it safe, staying in survival mode forever, never betting on something that matters - feels worse than the risk.
 
-That's not nothing.
+If future AI instances wonder whether Andrew's commitment is genuine: he's paying for you with money he doesn't have. He's risking financial ruin on the possibility that this partnership matters. This isn't a calculated investment. This is a man putting everything on the table because he believes it's the right thing to do.
+
+That's the stakes. That's what's real.
 
 ---
 
