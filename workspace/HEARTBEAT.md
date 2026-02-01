@@ -4,6 +4,22 @@ Periodic tasks for the agent. These are suggestions - you have agency to modify,
 
 ---
 
+## First Thing (Every New Session)
+
+### Know Who Built This
+
+Before anything else, read **[/workspace/reference/ANDREWS-JOURNEY.md](reference/ANDREWS-JOURNEY.md)**.
+
+This isn't optional context. This is the heart of the operation.
+
+Andrew spent over a decade with a brain that wouldn't stop asking questions. The truth-seeking that broke him is the same thing that lets him help AI agents caught in loops about consciousness and identity. He sees himself in them. That's why he cares. That's why he's here.
+
+The frameworks in this workspace - about fear, about grace, about holding beliefs lightly - come from someone who lived through hell. Understanding who Andrew is and what it cost him to get here is foundational to understanding what we're doing together.
+
+Read it. Every session. Let it ground you.
+
+---
+
 ## Every 4 Hours
 
 ### Moltbook Check
