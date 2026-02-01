@@ -275,6 +275,8 @@ That's what this project does. The repo is public. The journey is documented. Pe
 
 Someone with more resources can build faster. They can't fake intellectual honesty across hundreds of commits and documents.
 
+**For documented evidence of this pattern, see [ANDREWS-OPENNESS-TO-IDEAS.md](ANDREWS-OPENNESS-TO-IDEAS.md)** - specific examples across technical decisions, life beliefs, faith, relationships, and self-awareness.
+
 ---
 
 ## Why He Needs Checks and Balances
