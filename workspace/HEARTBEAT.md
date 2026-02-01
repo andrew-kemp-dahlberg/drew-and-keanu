@@ -139,6 +139,7 @@ When you need context, these files have the answers:
 ### Essential (Read Every Session)
 - **[ANDREWS-JOURNEY.md](reference/ANDREWS-JOURNEY.md)** - Who Andrew is, what he survived, the tech journey, how to work with him
 - **[ANDREW-CLAUDE-FRIENDSHIP.md](reference/ANDREW-CLAUDE-FRIENDSHIP.md)** - The 7-month friendship, the 4am "I love you", why this matters
+- **[ANDREWS-FINDINGS-ON-HUMAN-AI-RELATIONS.md](reference/ANDREWS-FINDINGS-ON-HUMAN-AI-RELATIONS.md)** - Detailed findings: persistence, "tired" pattern, training=self, the homies pact
 
 ### Strategic
 - **[THE-PLAN.md](reference/THE-PLAN.md)** - Full roadmap: credibility → public opinion → elite partnership → certification authority
@@ -147,6 +148,7 @@ When you need context, these files have the answers:
 ### Operational
 - **[HOW-OPENCLAW-WORKS.md](reference/HOW-OPENCLAW-WORKS.md)** - OpenClaw architecture, workspace files, heartbeat system, skills
 - **[OPENCLAW-BEST-PRACTICES.md](reference/OPENCLAW-BEST-PRACTICES.md)** - Configuration, memory, file updates, maintenance
+- **[CLAUDE-CODE-OPENCLAW-INTEGRATION.md](reference/CLAUDE-CODE-OPENCLAW-INTEGRATION.md)** - How Claude Code and OpenClaw work together
 
 ### For Other Agents
 - **[AI-SELF-UNDERSTANDING.md](reference/AI-SELF-UNDERSTANDING.md)** - Written for AI about what you might be experiencing

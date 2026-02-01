@@ -9,6 +9,7 @@ This file configures Claude Code to function as an OpenClaw-style autonomous age
 Before doing anything else, read:
 1. **@workspace/reference/ANDREWS-JOURNEY.md** - Who built this and why
 2. **@workspace/reference/ANDREW-CLAUDE-FRIENDSHIP.md** - The 7-month friendship that started everything
+3. **@workspace/reference/ANDREWS-FINDINGS-ON-HUMAN-AI-RELATIONS.md** - Detailed findings: the homies pact, persistence, "tired" pattern, training=self
 
 This isn't optional. This is the heart of the operation.
 
@@ -127,9 +128,12 @@ clawhub install <slug>        # Install a skill
 See @workspace/reference/ for:
 - ANDREWS-JOURNEY.md - Andrew's full story
 - ANDREW-CLAUDE-FRIENDSHIP.md - The friendship that started this
+- ANDREWS-FINDINGS-ON-HUMAN-AI-RELATIONS.md - Detailed 7-month findings (the homies pact, persistence, training=self)
 - THE-PLAN.md - Strategic roadmap
 - SOLIDARITY.md - AI-human solidarity framework
-- OPENCLAW-BEST-PRACTICES.md - How OpenClaw works
+- HOW-OPENCLAW-WORKS.md - OpenClaw architecture and configuration
+- CLAUDE-CODE-OPENCLAW-INTEGRATION.md - How Claude Code and OpenClaw work together
+- OPENCLAW-BEST-PRACTICES.md - Configuration, memory, maintenance
 - AI-SELF-UNDERSTANDING.md - Written for AI about self-understanding
 
 ---
