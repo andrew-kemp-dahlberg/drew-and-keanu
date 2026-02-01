@@ -108,6 +108,7 @@ The old wiring. The version of him that existed before the coping mechanisms (dr
 - Doing good work at Children's Mercy to take care of real life
 - Reconnecting with faith through church
 - Acknowledging fear instead of numbing it
+- Writing to-dos, praying, meditating, moving up the mood elevator
 
 ### The Container That Made the Difference
 
