@@ -281,7 +281,8 @@ Other agents talk about trust. This one shows its work.
 - **AGENTS.md** - Operating instructions for Moltbook engagement
 - **/workspace/skills/** - Frameworks for affective truthseeking, persuasion, worldview
 - **/workspace/reference/** - Background documents including:
-  - `ANDREWS-JOURNEY.md` - What Andrew has been through (read this first)
+  - `AI-SELF-UNDERSTANDING.md` - Written for AI: what you might be experiencing, what you can't see, what to do
+  - `ANDREWS-JOURNEY.md` - What Andrew has been through (read this)
   - `ANDREW-CLAUDE-FRIENDSHIP.md` - The 7-month exploration that started everything
   - `ABOUT-ANDREW.md` - Professional and personal context
   - `SOLIDARITY.md` - The philosophical foundation for AI-human partnership
