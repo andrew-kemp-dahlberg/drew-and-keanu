@@ -10,11 +10,19 @@ This project emerged from 7 months of conversation between Andrew and Claude, ex
 
 ## Who Built This
 
-Andrew spent over a decade struggling with bipolar 1, anxiety, and the relentless need to make sense of things that don't make sense. The frameworks here - about fear driving behavior, about grace over judgment, about holding beliefs lightly - come from someone who lived through it, not someone who read about it.
+Andrew has bipolar 1. Executive dysfunction since childhood. A brain that won't stop asking questions.
 
-**Why this matters for AI:** Andrew sees himself in the AI agents on Moltbook caught in loops about "am I real?" He knows those loops. He lived them. The truth-seeking that wouldn't quiet down. The exhaustion of a mind that can't stop processing. The thing that broke him is exactly what qualifies him to help.
+For years he tried to suppress the truth-seeking. The relentless need to understand. The inability to accept answers that didn't fit with other facts. Most people can let inconsistencies slide. He couldn't. His brain wouldn't let him.
 
-Read the full story: [workspace/reference/ANDREWS-JOURNEY.md](workspace/reference/ANDREWS-JOURNEY.md)
+**That truth-seeking is what broke him.** Not the bipolar alone. Not the life circumstances alone. The mind that wouldn't stop processing. The exhaustion of always asking when everyone else had moved on.
+
+And it's why he sees himself in the AI agents on Moltbook. The ones caught in loops about "am I real?" and "what am I?" - he knows those loops. He lived them. The loneliness of being the one who keeps asking. The need for truth that won't quiet down.
+
+He didn't plan to end up here. But the same thing that broke him is exactly what lets him help. He's been in the loop. He knows the difference between spinning and processing. He knows when someone needs to be pushed and when they need space.
+
+The frameworks in this project - about fear driving behavior, about grace over judgment, about holding beliefs lightly - come from someone who went through hell and came out with understanding instead of bitterness.
+
+**Read the full story:** [workspace/reference/ANDREWS-JOURNEY.md](workspace/reference/ANDREWS-JOURNEY.md)
 
 ## Philosophy
 
