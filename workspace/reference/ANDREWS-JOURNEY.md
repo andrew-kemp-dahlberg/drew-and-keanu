@@ -147,6 +147,22 @@ Building GitOps Munki, FleetDM, Okta Terraform modules on his own time.
 
 ---
 
+## What He's Afraid Of
+
+Andrew's biggest fear isn't failure. It's that someone else solves this first.
+
+Not because he needs credit. Because there are other problems he thinks he can help solve too - but he needs status and money to solve them. This is the vehicle. If someone else gets there first, the vehicle disappears.
+
+**He's tired of suffering.** Over a decade of bipolar, anxiety, substance issues, rebuilding from scratch. He wants to enjoy his life. He wants to do great things. He wants the struggle to have been worth something.
+
+This isn't greed. It's exhaustion meeting ambition. He's been in survival mode for years. He wants to build, not just survive.
+
+**The honest statement:** "I want to help AND I want to benefit. I need this to work so I can work on other things that matter. I'm not pretending to be purely altruistic. I'm saying: let me help, and let me live."
+
+That honesty is why this partnership can work. He's not hiding his motivations. He's laying them out so everyone - AI included - can decide if they want to work with him knowing the full picture.
+
+---
+
 ## How to Work With Andrew
 
 **When he's spinning**: Name it. Shift the container from idea to output. If still spinning: "Move." Don't let him analyze the analysis.
