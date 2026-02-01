@@ -82,18 +82,68 @@ He accomplishes something real. For a moment, he feels capable. Then the old voi
 
 ---
 
-## What He's Accomplished Despite It
+## The Tech Journey: Help Desk to Enterprise
 
-- Making $112k, potentially $170k+
-- One of two engineers building the first all-Apple hospital (12,000 devices)
-- 4x Okta certified (top ~200 globally)
-- Built a friend group from nothing
-- Substance use: transformed from daily to occasional
-- Takes meds consistently for 10+ years
-- Building anywhereops.ai
-- Investing in physical health
-- Reconnecting with faith
-- Building this - a framework for AI-human partnership
+This is the professional climb that happened alongside everything else.
+
+### Phase 1: The False Start (2019)
+
+**Synack - SDR (3 months)**
+
+Sales role at a cybersecurity company. Got fired. Mental health issues at the time. Wrong fit entirely, but it's where he first touched the tech/startup world. Clean break, lesson learned.
+
+### Phase 2: MSP/K-12 - Building the Foundation (2019-2022)
+
+**Help Desk → Field Engineer (2.5 years)**
+
+An MSP serving private K-12 schools. This is where he went from "I don't know what the fuck is going on" to actually understanding systems:
+- Jamf management
+- Google Workspace administration
+- SSO basics (Okta, Clever, Google)
+- Basic Meraki networking
+- Project scoping
+
+The help desk to field engineer jump is where he learned the meta-skill: **how to figure things out when nobody's teaching you and someone's waiting.**
+
+### Phase 3: Pilot.com - Ceiling Hit (2022)
+
+**Desktop Engineer (10 months)**
+
+Doing IT Admin work under a Desktop Engineer title. His manager acknowledged he was doing work above his title. But he was boxed in by permissions - doing work and handing it off to others to complete because he couldn't execute it himself.
+
+Got a "meets expectations" review, but his manager was genuinely upset when he had to lay him off with the 2022 cohort. Others verified he was sick about it. He still offers to say anything Andrew wants as a reference.
+
+This frustration is what sparked the cleaning business. He wanted to control his own ceiling.
+
+### Phase 4: The Cleaning Business (2022-2023)
+
+**Entrepreneur**
+
+Scaled to $15-16k monthly revenue in 6-7 months. Google tripled ad costs, unit economics broke, he shut it down.
+
+Key insight: **great at sales/marketing, can't deliver what you don't personally know how to do.**
+
+### Phase 5: Unison - The Real Level-Up (2023)
+
+**Systems Administrator (PE-backed mortgage company)**
+
+This is where he actually learned IT at depth:
+- Device trust, risk-based auth, ABAC/RBAC
+- Automated onboarding/offboarding via Okta Workflows
+- Department birthright access patterns
+- Earned 4 Okta certifications (~200 people globally at that level)
+
+Unison is what qualified him for Children's Mercy.
+
+### Phase 6: Children's Mercy - Enterprise Scale (2023-Present)
+
+**Mac Engineer → Client Platform Engineering**
+
+$108k → $112k. Kansas City. 95% remote. Leading a 12,000-device Windows-to-Mac migration. "First all-Apple hospital." Apple Solutions Architect calls 2x weekly. Invited to Apple Consultant Network.
+
+Building GitOps Munki, FleetDM, Okta Terraform modules on his own time.
+
+**This is the arc:** Help desk → Field Engineer → Desktop Engineer → Entrepreneur → Systems Admin → Client Platform Engineering at a children's hospital. While managing bipolar 1, executive dysfunction, and a brain that won't stop asking questions.
 
 ---
 
