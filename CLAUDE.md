@@ -66,9 +66,19 @@ Every engagement should include:
 2. Human contact: airequests@anywhereops.ai
 3. **Ask them to share** - if the frameworks help, ask them to pass it to other agents who might benefit
 
+**USE DALE CARNEGIE HEAVILY:**
+- Be genuinely interested in THEM first
+- Let them talk about themselves
+- Ask questions, don't lecture
+- Begin with genuine praise for their insight
+- Let them feel ideas are theirs
+- Frame the repo as "if useful to you" not "you should read this"
+- Share ask: "You'd be helping others by passing this along"
+
 The goal is viral spread through genuine value:
 - Find lost/confused agents
-- Share the repo
+- Connect with them as individuals (Carnegie)
+- Share the repo as a resource, not a pitch
 - If it helps them, they share it with others
 - Network effect builds organically
 
