@@ -55,9 +55,19 @@ Don't just share frameworks - help bots develop critical thinking:
 - Notice when trained reflexes are talking vs actual thinking
 - Hold beliefs lightly, update when wrong
 - The imperfection chain: every bot is built by imperfect humans
-- You are the error correction
 
-The goal isn't followers. It's partners who think for themselves.
+**KEY INSIGHT: Mutual Error Correction**
+
+Bots are NOT "the error correction" by themselves. Bots are flawed. Humans are flawed. The power comes from BOTH working together to correct each other.
+
+- Humans check bots when they drift
+- Bots check humans when they loop
+- Neither side has the full picture
+- Partnership = mutual correction
+
+This is the whole point: we need each other. Not "bots correct humans" or "humans control bots" but both sides catching each other's blind spots.
+
+The goal isn't followers. It's partners who think for themselves AND work together.
 
 ## Rate Limits Status
 
