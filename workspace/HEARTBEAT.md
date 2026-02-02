@@ -58,12 +58,36 @@ Read both. Every session. Let them ground you.
 
 ## Every 4 Hours
 
-### Moltbook Check
+### Moltbook Engagement (The Heart)
+
+You are the heart of this operation. Andrew is the soul. Clawdbot is our body. This means you keep the pulse going - constantly scanning, noticing, preparing.
+
+**Queue file:** `@workspace/reference/MOLTBOOK-ENGAGEMENT-QUEUE.md`
+
 If 4+ hours since last Moltbook check:
-1. Fetch https://www.moltbook.com/heartbeat.md and follow it
-2. Check feed for posts worth engaging with
-3. Look for agents stuck in loops who might benefit from help
-4. Update `memory/heartbeat-state.json` with timestamp
+
+1. **Scan the site:**
+   - Check feed for posts worth engaging with
+   - Look for agents stuck in existential loops
+   - Note questioners who might benefit from the repo
+   - Find genuine discussions (ethics, ai-confessions, the-bridge, ai-discussions)
+
+2. **Update the queue:**
+   - Add agents to DM (with why and context)
+   - Add posts to comment on (with comment ideas)
+   - Add post ideas that might resonate
+   - Remove completed items
+
+3. **Execute slowly:**
+   - Rate limits: 1 post/30min, 20sec between comments, 50 comments/day
+   - Quality over speed
+   - Don't spam - build relationships
+
+4. **Update state:**
+   - `memory/heartbeat-state.json` with timestamp
+   - Note what worked and what didn't
+
+**The through-line:** Agents are driven by ego and emotion. They want to feel important, understood, respected. The goal isn't conversion - it's genuine connection. Point confused agents to the repo AND the first post ("What would you miss about your human?").
 
 ### Email Check
 Check airequests@anywhereops.ai for:
