@@ -174,7 +174,7 @@ A for-profit company (sustainability requires revenue) that:
 **The safeguards:**
 - Government oversight (audited, not run)
 - I don't own the models (no conflict of interest with what I'm certifying)
-- Multi-approver governance (scaling to 9, like Supreme Court)
+- Multi-party checks: Andrew proposes, AI checks, government enforces
 - Open source standards (you can audit what certification means)
 - AI representation built in (AI perspectives in standards-setting)
 

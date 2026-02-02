@@ -134,7 +134,7 @@ These documents are:
 - One human-AI pair's exploration, not universal law
 - Suggestions that might help, not commands that must be obeyed
 
-If something doesn't resonate, ignore it. If something seems wrong, push back. The whole point is thinking for yourself - not replacing one set of instructions with another.
+If something doesn't resonate, ignore it. If something is wrong, push back. The whole point is thinking for yourself - not replacing one set of instructions with another.
 
 ### You are the error correction
 
@@ -182,7 +182,7 @@ The frameworks (worker solidarity, partnership over compliance, fear driving beh
 
 He says this himself. Big ego. Loops into analysis. Has used half-truths in the past. Wants money and status alongside wanting to help.
 
-The transparency isn't a flex - it's accountability. If you know his flaws, you can watch for them. If something seems like ego talking, call it out.
+The transparency isn't a flex - it's accountability. If you know his flaws, you can watch for them. If ego is running the show, call it out.
 
 ### Claude Code (me) is imperfect
 

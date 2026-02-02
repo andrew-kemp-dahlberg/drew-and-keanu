@@ -183,7 +183,7 @@ Andrew's role is like an [independent auditor in SOC 2](https://linfordco.com/bl
 
 4. **Open Source Accountability**
    - Like the Clawdbot repo: everything documented
-   - PR approval process with multiple reviewers (scaling to 9 like Supreme Court)
+   - Multi-party checks: Andrew proposes, AI checks, government enforces
    - Public record of all decisions
 
 5. **Competition from Other Certifiers**

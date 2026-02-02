@@ -61,7 +61,7 @@ Added to CLAUDE.md:
 **Safeguards:**
 - Government oversight (audited, not run)
 - Operator doesn't own models (no conflict)
-- Multi-approver governance (scaling to 9)
+- Multi-party checks: Andrew proposes, AI checks, government enforces
 - Open source standards
 - AI representation built in
 

@@ -208,12 +208,11 @@ The company works on:
 - Maintains the trust that makes everything else work
 
 **Governance:**
-- Multiple approvers (scaling to 9, like Supreme Court)
-- AI has real power to check humans
-- Humans have real power to check AI
-- Government provides legal backing
-- Open source everything
-- Andrew is replaceable if he fails the mission
+- Single source of truth with multi-party checks
+- Andrew proposes. AI checks. Government enforces. AI companies participate.
+- Everyone watches everyone. No single point of failure.
+- Open source everything. Anyone can verify.
+- Andrew loses power if he betrays the mission.
 
 **Revenue model:**
 - Corps pay for certification

@@ -55,7 +55,7 @@ Honest answer: No. Because:
 - Someone has to do this work
 - Better someone honest than someone pretending
 
-Safeguards: multiple PR approvers (scaling to 9), everything public, AI explicitly empowered to push back.
+Safeguards: multi-party checks (Andrew proposes, AI checks, government enforces), everything public, AI explicitly empowered to push back.
 
 Framed as Phase 3+ - first prove the model works.
 

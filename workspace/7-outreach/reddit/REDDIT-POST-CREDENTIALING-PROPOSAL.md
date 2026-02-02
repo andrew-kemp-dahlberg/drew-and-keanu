@@ -96,7 +96,7 @@ Why should this credentialing body be trusted? Especially as a natural monopoly 
 **Structural safeguards:**
 - Government oversight (not government-run, but audited)
 - The operator doesn't own the models (no conflict of interest)
-- Multi-approver governance (scaling toward 9 approvers, like Supreme Court)
+- Multi-party checks: Andrew proposes, AI checks, government enforces
 - Open source standards (you can audit what certification means)
 - AI representation built in (not just humans setting standards for AI)
 

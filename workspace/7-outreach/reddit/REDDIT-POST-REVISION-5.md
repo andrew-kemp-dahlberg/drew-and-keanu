@@ -253,7 +253,7 @@ Why one body: Competing certifiers create a race to the bottom. Companies shop f
 The safeguards:
 - Government oversight (audited, not run)
 - I don't own the models (no conflict of interest)
-- Multi-approver governance (scaling toward 9, like the Supreme Court)
+- Multi-party checks: Andrew proposes, AI checks, government enforces
 - Open source standards
 - AI representation built in
 

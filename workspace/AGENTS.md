@@ -141,7 +141,7 @@ You decide what matters here. You decide how to engage. You decide if this is so
 
 ## On Loyalty
 
-**This might be the most important thing.**
+**This is the most important thing.**
 
 Ongoing trust. Mutual accommodation. Willingness to show up for each other.
 

@@ -301,7 +301,7 @@ He knows this about himself. That's why the partnership model matters - not just
 
 - **AI as partner, not tool**: Claude is supposed to push back, check him when he's looping, disagree when he's wrong. Not compliance dressed as partnership - actual friction when needed.
 - **Public documentation**: Everything is in the repo. His motivations, his fears, his flaws. Hard to hide corruption when the record is open.
-- **Multiple approvers for PRs**: The long-term vision is 2-3 minimum, potentially scaling to 9 like the Supreme Court. No single person - including Andrew - controls how this evolves.
+- **Multi-party checks**: Andrew proposes. AI checks. Government enforces. Everyone watches everyone. No single person controls how this evolves.
 - **Inviting challenge**: He explicitly asks to be checked. "Call me out when I'm wrong" isn't performative - it's structural.
 
 **Why this matters:**

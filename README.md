@@ -348,7 +348,7 @@ That's not desperation. That's faith. That's conviction. That's a man who decide
 
 This repo is the working truth. Not finished. Not perfect. A living document that evolves as we learn more.
 
-PRs are the source of truth. Every change is auditable. Long-term vision: multiple human approvers (2-3 minimum, potentially 9 like the Supreme Court). No single person controls how this evolves.
+PRs are the source of truth. Every change is auditable. The governance: Andrew proposes, AI checks, government enforces, everything open source. No single point of failure.
 
 **Ways to contribute:**
 - Open a PR with improvements, corrections, or new ideas

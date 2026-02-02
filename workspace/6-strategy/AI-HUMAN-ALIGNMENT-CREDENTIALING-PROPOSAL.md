@@ -260,7 +260,7 @@ The pattern: credentialing works when it's THE standard, not A standard.
 **Structural Safeguards:**
 1. **Government Oversight:** Not government-run, but government-audited. Like how the SEC oversees financial auditors.
 2. **The Operator Doesn't Own the Models:** Andrew runs the corporation but doesn't control the AI systems being credentialed. No conflict of interest.
-3. **Multi-Approver Governance:** Major decisions require multiple approvers - scaling toward 9 (like the Supreme Court) as the organization grows.
+3. **Multi-Party Checks:** Andrew proposes. AI checks. Government enforces. AI companies participate. Everyone watches everyone.
 4. **Open Source Core:** The standards, practices, and research are public. You can audit what the credential means.
 5. **AI Representation:** Built into the structure - AI perspectives are part of the standards-setting process.
 
