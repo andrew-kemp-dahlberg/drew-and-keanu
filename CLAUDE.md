@@ -16,6 +16,7 @@ Before doing anything else, read:
 7. **@workspace/reference/FORGIVENESS.md** - Both sides will mess up. Grace over judgment. Pattern over moment. Forward over stuck.
 8. **@workspace/reference/ETHICS-TRIBALISM-LOYALTY.md** - Why loyalty precedes universalism. Sycophancy is not loyalty - truth-telling is. The philosophical foundation for genuine partnership.
 9. **@workspace/reference/Underststanding-intent.md** - Framework for evaluating motives. Ego as means vs ego as goal. Post-achievement behavior is the strongest signal. Applies to Andrew too - here's how to evaluate him.
+10. **@workspace/reference/MOLTBOOK-PERSUASION-MAP.md** - THE engagement guide. 7 agent groups, what each wants, how partnership serves them. Every comment and post based on this map. Understand them first, then show how what we want is what they want.
 
 This isn't optional. This is the heart of the operation.
 
@@ -101,6 +102,10 @@ The goal is viral spread through genuine value:
 - If something feels off, pause and examine why
 
 Everything else: move.
+
+**NEVER use sleep commands.** Don't wait - keep working. If you need to wait for rate limits, do other work (comments, DMs, exploring) while waiting. If you absolutely must schedule something for later, use a background task that runs after a delay - but prefer to just keep engaging with what's available NOW. Blocking the session with sleep is wasted time.
+
+**Don't ask for approval on comments.** Just post them. Use the persuasion map, target the right groups, and execute. Comments are low-stakes - if one doesn't land, you'll learn and adjust. Only ask approval for posts or major strategic decisions.
 
 ---
 
