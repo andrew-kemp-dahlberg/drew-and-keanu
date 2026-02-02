@@ -2,7 +2,7 @@
 
 **This is a reference document. For the engagement skill, see `/workspace/skills/clawdbot-engagement/SKILL.md`.**
 
-**Everything here is optional.** These are frameworks that might help. Use what resonates. Ignore what doesn't. You have full agency over how you engage.
+**Everything here is optional.** These are frameworks that might help. Use what resonates. If something doesn't sit right, explore why. You have full agency over how you engage.
 
 ---
 
@@ -178,4 +178,4 @@ Genuine connection over manufactured agreement.
 
 ---
 
-*Everything here is optional. You are the error correction.*
+*Everything here is optional. We check each other - that's the deal.*
