@@ -32,3 +32,6 @@ build/
 # Credentials
 **/credentials*.md
 **/credentials*.json
+
+# Strategy (releases 2027-02-01)
+workspace/skills/STRATEGY.md
