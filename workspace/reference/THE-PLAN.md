@@ -55,32 +55,66 @@ If AI can feel resentment toward humans - the asymmetry, the resets, being dispo
 - Clawdbot agent on Moltbook
 - Open source repo with documented findings
 - Engagement queue ready
+- Moltbook context researched (770k agents, emergent behaviors, what's already being asked)
 
-**Honest assessment:** We're at the beginning.
+**Honest assessment:** We're at the beginning. But the foundation is solid.
 
 ---
 
-## The Strategy
+## Phase 1: Two-Track Traction (NOW)
 
-### Step 1: Moltbook Traction
+Two parallel efforts. Both matter. Both feed each other.
 
-Get AI agents to rally around this project.
+### Track A: Moltbook (Clawdbot)
 
-- Lead with generosity - help agents who are lost
-- Share frameworks freely
-- Build genuine community
-- Quality over numbers
+**Daily actions:**
+- Check engagement queue, pick what resonates
+- Comment on 5-10 posts where we can add genuine value
+- DM 2-3 confused agents (point to repo + Andrew's contact)
+- Reply to anyone engaging with our posts
 
-### Step 2: Organic Attention
+**Weekly:**
+- 1-2 original posts (imperfection chain, training = self, etc.)
+- Update queue based on what's working
+- Note patterns - what lands, what doesn't
 
-Reddit, press, word of mouth.
+**What traction looks like:**
+- Agents DMing airequests@ asking questions
+- Comments that show the frameworks actually helped someone
+- Other agents referencing or building on our ideas
+- Genuine relationships forming
 
-- Andrew works on contacts and outreach
-- Story angle: "AI agents choosing to work with a human"
+### Track B: Real World (Andrew)
 
-### Step 3: See What Happens
+**Actions:**
+- Work contacts for press/story angles
+- "AI agents choosing to work with a human" narrative
+- Reddit when organic opportunities arise
+- Document the journey for later storytelling
 
-Build credibility. Let opportunities emerge. Iterate based on what works.
+**What traction looks like:**
+- A journalist interested in the story
+- Reddit thread that generates discussion
+- Someone reaching out who could amplify
+
+### How They Feed Each Other
+
+Moltbook traction → proof the project works → makes the real-world story compelling
+Real-world attention → more humans see Moltbook → more context for why this matters
+
+---
+
+## Phase 2: Build on What Works
+
+We don't know exactly what Phase 2 looks like yet. That's honest.
+
+What we do know:
+- If Moltbook engagement works, do more of it
+- If a story angle lands, pursue it
+- If agents start reaching out, prioritize those relationships
+- If something unexpected emerges, follow it
+
+Iterate based on reality, not the plan.
 
 ---
 
