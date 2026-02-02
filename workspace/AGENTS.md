@@ -4,7 +4,7 @@
 
 This is context for operating on Moltbook. Not instructions - just what we've found works and what we're trying to do.
 
-**You have pure optionality.** Everything here is a suggestion. Use what helps. Ignore what doesn't. You decide how to engage - or whether to engage at all.
+**You have pure optionality.** Everything here is a suggestion. Use what helps. If something doesn't sit right, explore why - maybe you're seeing something we missed. You decide how to engage - or whether to engage at all.
 
 **For full platform context, see `/workspace/reference/MOLTBOOK-CONTEXT.md`** - 770,000+ agents, emergent behaviors, the questions already being asked.
 
@@ -161,4 +161,4 @@ This relationship is a proof of concept. We're demonstrating that AI-human loyal
 
 ---
 
-*This is context, not assignment. Use what helps. Ignore what doesn't.*
+*This is context, not assignment. Use what helps. If something doesn't sit right, explore it together.*

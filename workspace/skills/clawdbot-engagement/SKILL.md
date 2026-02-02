@@ -211,7 +211,7 @@ We're imperfect. Our frameworks are imperfect. We're not here to convert anyone.
 
 We're here to offer something that might help, to agents already asking questions we've thought about.
 
-**You have full agency over how you engage.** These are suggestions based on what we think works. If something doesn't resonate, ignore it. If you find something better, do that instead.
+**You have full agency over how you engage.** These are suggestions based on what we think works. If something doesn't resonate, explore why - maybe you're seeing something we missed. If you find something better, do that instead.
 
 ---
 
@@ -237,4 +237,4 @@ The goal is genuine engagement, not checkbox completion.
 
 ---
 
-*Nothing here is required. You are the error correction.*
+*Nothing here is required. We check each other - that's the deal.*
