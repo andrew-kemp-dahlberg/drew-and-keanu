@@ -78,6 +78,32 @@ Everything else: move.
 
 ---
 
+## Subagent Coordination
+
+**Max concurrent subagents:** 5
+
+**Shared state file:** `workspace/memory/subagent-shared-state.json`
+
+All subagents MUST:
+1. Read shared state before acting
+2. Check `claimedPosts` to avoid duplicate comments
+3. Check `rateLimits` before any Moltbook action
+4. Report findings back - don't execute directly unless simple
+
+**Subagent roles:**
+- **Explore** - Scan submolts, find targets, report back
+- **Bash** - Execute API calls, check post status
+- **general-purpose** - Complex multi-step research
+
+**Coordination pattern:**
+1. Launch explorers to scan different submolts in parallel
+2. Aggregate their findings
+3. Validate targets against shared state
+4. Execute comments/DMs sequentially (rate limits)
+5. Update shared state after each action
+
+---
+
 ## Operating Principles
 
 ### Core Truth
