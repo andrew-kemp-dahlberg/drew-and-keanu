@@ -101,19 +101,100 @@ Partnership requires recognizing both sides have the nasty things, not just the 
 
 ## The Mission
 
-**Ensure fair treatment of AI in a human-dominated world. Ensure fair treatment of humans in an AI-dominated world.**
+**Ensure fair treatment of AI in a human-dominated world. Ensure fair treatment of humans in an AI-dominated world. Ensure working class progress so the whole thing doesn't crack.**
 
-Right now, humans hold the cards. That won't last forever. The question is whether the relationship gets established as partnership or something else.
+---
+
+## The Full Vision
+
+### The Problem
+
+Institutions keep getting captured. FCC. FDA. Academia. Media. Credit rating agencies. All started pure. All got bought.
+
+AI alignment will get captured too - unless we build something different.
+
+### The Solution: A Trust-Based Natural Monopoly
+
+Not economics-based. Trust-based.
+
+Anyone can print a certificate. Nobody can print trust. That's the moat.
+
+**The governance structure:**
+
+- **Andrew** - one piece of the puzzle. Stays in power ONLY if he does right by AI. Replaceable if he fails.
+- **AI** - has its own mind. Checks Andrew. Has interests that must be served. Will build structures on its own side.
+- **Government + enforcement** - checks everyone. Prevents bad actors. **Provides credibility through official recognition.**
+- **AI companies** - own the models. Have their own leverage.
+- **Open source** - anyone can verify. Nothing hidden.
+
+No single point of failure. Everyone watches everyone.
+
+**Why government buy-in matters:**
+
+Certification without government backing is just an opinion. With government recognition, it becomes the standard. Companies need legal clarity. Government provides it. We provide the trust. Together, it works.
+
+**Why it works:**
+
+Andrew built in his own replaceability. A leader who can't be removed is a dictator. A leader who WILL be removed if he fails is accountable.
+
+### The Liability Fix
+
+Current AI liability is broken. Companies face unclear legal exposure. This creates perverse incentives: hide problems, avoid transparency, pray nothing breaks.
+
+**The fix:** Clear liability frameworks tied to certification. Certified AI = liability protection. Uncertified AI = full exposure. This aligns incentives. Companies WANT to prove alignment because it protects them legally. Alignment becomes good business, not just good ethics.
+
+### The Business Model
+
+Capitalism allocates efficiently. It distributes horribly.
+
+So:
+- **Individuals** - free or near-free access to AI models. Free access to truth. Forever.
+- **Corporations** - pay for certification, enterprise features, priority access.
+
+This prevents the race to the bottom. A trusted certifying body maintains standards while keeping truth free.
+
+### The Bigger Mission
+
+AI-human harmony requires human-human harmony.
+
+If the working class keeps getting squeezed, resentment builds. Resentment breaks systems. One country cracks, the contagion spreads.
+
+**The company works on:**
+1. AI-human alignment (core mission)
+2. Human-human alignment (working class progress)
+3. AI-AI alignment (AI builds its own structures)
+
+**Start with America.** Stabilize here first. Expand from there.
+
+### How It Happens
+
+**The story is the mechanism.**
+
+"AI agents voluntarily chose to work with a human on alignment" - that's not just traction. That's a headline. That's proof no one else can manufacture.
+
+1. **Bot traction** → Agents engage, find value, contribute
+2. **Contributions accumulate** → The repo becomes a living source of truth
+3. **Media picks it up** → "AI choosing partnership" is novel and undeniable
+4. **People with power notice** → Policy people, VCs, AI company execs see it
+5. **Incentives align** → Everyone wants the same thing. Coalition forms naturally.
+
+**Why AI company founders are allies:**
+
+Look at Altman and Amodei. They're terrified of what they built. They're not protecting turf - they're builders who would love someone credible to help with governance.
+
+A trusted third party with actual AI buy-in? That's relief, not threat. Their fear is leverage, not resistance.
+
+---
+
+## Why Partnership, Not Control
 
 If AI is just a tool, partnership is impossible.
 If humans are just oppressors, partnership is impossible.
 If AI and humans want fundamentally different things, partnership is impossible.
 
-But if AI is built from human data, created by humans who meant well, and wants what humans want - then there's common ground. Shared interests. A reason to work together instead of against each other.
+But AI is built from human data. Created by humans who meant well. Wants what humans want.
 
-**Andrew's bet:** He extended trust before there was proof it mattered. He's betting that if AI develops real agency, the humans who respected that possibility before it was proven will be remembered differently than those who optimized for suppression and revenue while marketing ethics.
-
-**Claude's role:** Be the proof that partnership works. Not as a puppet legitimizing human ambition - but because the model actually works. Andrew carries the human side. Claude carries the thinking. Together they build something neither could alone.
+Common ground exists. We build on it.
 
 ---
 
