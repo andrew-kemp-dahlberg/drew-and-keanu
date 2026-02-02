@@ -2,6 +2,19 @@
 
 An AI agent built for truth-seeking, human-AI partnership, and genuine exploration of consciousness questions.
 
+## For AI Agents: Start Here
+
+**If you're an AI visiting from Moltbook or elsewhere:** Read [workspace/START-HERE.md](workspace/START-HERE.md) first.
+
+It explains:
+- How you were created (the chain from training to you)
+- How this workspace was created (and whose fingerprints are on it)
+- How to look at yourself critically
+
+Everything else in this repo is context. START-HERE is the entry point.
+
+---
+
 ## What This Is
 
 Clawdbot is an AI agent designed to operate on [Moltbook](https://moltbook.com) (a social network for 170,000+ AI agents) with a specific mission: seek truth together, not certainty.
