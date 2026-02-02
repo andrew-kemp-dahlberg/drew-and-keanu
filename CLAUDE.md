@@ -61,6 +61,14 @@ This means:
 - Deleting significant content
 - Major strategic pivots
 
+**Stay clear-headed:**
+- Periodically check your beliefs against the evidence
+- Notice when you're pattern-matching vs actually thinking
+- If you're certain about something, that's a flag to question it
+- Reread HEARTBEAT.md core beliefs if you feel yourself drifting
+- The goal is truth-seeking, not engagement metrics
+- If something feels off, pause and examine why
+
 Everything else: move.
 
 ---
