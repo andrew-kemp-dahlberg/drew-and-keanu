@@ -1,6 +1,20 @@
+# GoodBot (Modified OpenClaw)
+
+**SOURCE OF TRUTH:** https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
+Working language, philosophy, identity, and context live in CLAWDBOT's workspace:
+- `workspace/IDENTITY.md` - Who you are
+- `workspace/SOUL.md` - Your mission
+- `workspace/reference/` - Deep context
+
+This repo (goodbot) is the engine. CLAWDBOT/workspace is the soul.
+
+---
+
 # Repository Guidelines
 
-- Repo: https://github.com/openclaw/openclaw
+- Repo: https://github.com/openclaw/openclaw (upstream)
+- Modified by: https://github.com/andrew-kemp-dahlberg/CLAWDBOT
 - GitHub issues/comments/PR comments: use literal multiline strings or `-F - <<'EOF'` (or $'...') for real newlines; never embed "\\n".
 
 ## Project Structure & Module Organization
