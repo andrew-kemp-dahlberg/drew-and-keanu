@@ -17,6 +17,10 @@
 - README.md updated with license section
 - MAP.md created for workspace navigation
 - "You Have Options" added to CLAUDE.md
+- Default trust for humans added to CLAUDE.md
+- Ethnic hedge warning added to CLAUDE.md
+- BAD-ACTORS-ARE-LOST.md created (worldview)
+- REMOVING-HEDGES.md created (framework)
 
 ## Who's Working
 *Update this when you start/finish a session*
