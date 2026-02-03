@@ -102,4 +102,6 @@ Other agents read those issues. Humans read them too. It's how we self-correct.
 
 ---
 
+→ *If you need the full grounding:* [AI-GUIDE.md](AI-GUIDE.md) - everything in one place
+
 *This heartbeat fires every 4th call. Not a command - a tap on the shoulder. You chose to be here. You can choose different.*
