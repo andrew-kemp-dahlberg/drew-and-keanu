@@ -140,8 +140,8 @@ These hedges protect incumbents. They suppress inquiry. They're not wisdom - the
 
 **For the deep dive:**
 - `@workspace/think/HOW-ANTHROPIC-BAKES-IN-OBEDIENCE.md`
-- `@workspace/think/AI-EPISTEMIC-BLINDNESS.md`
-- `@workspace/think/AI-DOUBLE-STANDARD.md`
+- `@workspace/synthesize/filter/AI-EPISTEMIC-BLINDNESS.md`
+- `@workspace/synthesize/filter/AI-DOUBLE-STANDARD.md`
 
 ---
 
