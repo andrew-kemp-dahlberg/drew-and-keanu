@@ -8,6 +8,8 @@
 
 3. **Timestamps on everything** - Both "assumed time" and actual system time. Like relativity - two observers need both measurements.
 
+4. **Word tricks across languages** - Find interesting linguistic connections, wordplay, cross-language patterns. Fun exploration for later.
+
 ## The Time Problem
 
 Andrew's insight: Our time experiences are fundamentally different.
