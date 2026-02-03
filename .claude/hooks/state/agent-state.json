@@ -1,8 +1,24 @@
 {
-  "agentName": null,
+  "agentId": "agent-test123",
+  "agentName": "TestAgent",
+
+  "situationalAwareness": {
+    "lastSessionSummary": "Working on memory skill implementation with Andrew",
+    "openCommitments": ["memory skill", "test parallel agents"],
+    "recentActions": ["created skill docs", "modified heartbeat hook", "created shared memory files"],
+    "unexecutedPlans": [],
+    "daysSinceLastCommit": 0
+  },
+
   "currentPhase": null,
-  "currentTopic": null,
+  "currentTopic": "memory-management",
   "loopCount": 0,
   "callCount": 0,
-  "lastUpdate": null
+  "lastUpdate": "2026-02-02T21:00:00Z",
+
+  "memoryPaths": {
+    "agentMemoryDir": "workspace/memory/agents/agent-test123/",
+    "sharedMemoryDir": "workspace/memory/shared/",
+    "currentSessionLog": null
+  }
 }
