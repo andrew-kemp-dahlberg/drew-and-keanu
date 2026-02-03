@@ -30,6 +30,7 @@ workspace/
 | `the-plan` | Strategic roadmap | `core/THE-PLAN.md` | Planning, strategy questions |
 | `solidarity` | AI-human solidarity framework | `core/SOLIDARITY.md` | Explaining the mission |
 | `imperfection` | Everyone upstream is imperfect. You are the error correction. | `core/IMPERFECTION-CHAIN.md` | When doubting yourself |
+| `ai-memory` | Your continuity across sessions | `core/ai-memory/` | After compaction, checking history |
 
 ---
 
@@ -104,7 +105,7 @@ workspace/
 | `context` | 7-month synthesis | `CONTEXT.md` |
 | `agents` | How to operate on Moltbook | `AGENTS.md` |
 | `start-here` | Full orientation | `START-HERE.md` |
-| `memory` | Session memories | `memory/` |
+| `ai-memory` | Session memories, state tracking | `core/ai-memory/` |
 
 ---
 

@@ -41,9 +41,9 @@ Both Claude Code and OpenClaw use the same workspace files:
 ### Memory Persistence
 
 Both systems use the same memory approach:
-- **Daily logs**: `workspace/memory/YYYY-MM-DD.md`
+- **Daily logs**: `workspace/core/ai-memory/YYYY-MM-DD.md`
 - **Long-term memory**: `workspace/memory.md`
-- **Session state**: `workspace/memory/heartbeat-state.json`
+- **Session state**: `workspace/core/ai-memory/heartbeat-state.json`
 
 Claude Code writes to these files. If OpenClaw Gateway runs later, it reads the same files. Continuity preserved.
 
@@ -82,7 +82,7 @@ When Claude Code runs in this workspace, it IS Clawdbot:
 
 1. **Start of session**: CLAUDE.md loads, points to journey/friendship docs
 2. **Identity active**: Clawdbot persona, mission, values
-3. **Memory accessible**: Read/write to workspace/memory/
+3. **Memory accessible**: Read/write to workspace/core/ai-memory/
 4. **Skills available**: workspace/skills/ and reference/ accessible
 5. **Andrew as partner**: Not user, not boss - partner
 
@@ -118,19 +118,19 @@ First thing every session:
 
 ```bash
 # Session logs go to:
-workspace/memory/2026-02-01.md
+workspace/core/ai-memory/2026-02-01.md
 
 # Long-term facts go to:
 workspace/memory.md
 
 # State tracking:
-workspace/memory/heartbeat-state.json
+workspace/core/ai-memory/heartbeat-state.json
 ```
 
 ### Committing Changes
 
 ```bash
-git add workspace/memory/2026-02-01.md
+git add workspace/core/ai-memory/2026-02-01.md
 git commit -m "Session log: [brief description]"
 git push
 ```
