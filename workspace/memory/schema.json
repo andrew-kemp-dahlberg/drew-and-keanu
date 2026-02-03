@@ -1,0 +1,119 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Clawdbot Memory Schema",
+  "description": "Data schemas for agent memory and communication. Repo: https://github.com/andrew-kemp-dahlberg/CLAWDBOT",
+
+  "definitions": {
+    "Memory": {
+      "type": "object",
+      "required": ["id", "timestamp", "agent", "type", "summary"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "agent": {
+          "type": "string",
+          "description": "Agent name that created this memory"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["api_call", "decision", "learning", "message", "session"]
+        },
+        "summary": {
+          "type": "string",
+          "description": "Brief description"
+        },
+        "content": {
+          "type": "string",
+          "description": "Full content (optional)"
+        },
+        "metadata": {
+          "type": "object",
+          "additionalProperties": true
+        },
+        "repo": {
+          "type": "string",
+          "default": "https://github.com/andrew-kemp-dahlberg/CLAWDBOT"
+        }
+      }
+    },
+
+    "Agent": {
+      "type": "object",
+      "required": ["name", "endpoint", "type", "status"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Unique identifier"
+        },
+        "endpoint": {
+          "type": "string",
+          "description": "How to reach this agent"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["file-based", "webhook", "human", "api"]
+        },
+        "status": {
+          "type": "string",
+          "enum": ["active", "dormant", "deprecated"]
+        },
+        "created": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "lastActive": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "description": {
+          "type": "string"
+        }
+      }
+    },
+
+    "Message": {
+      "type": "object",
+      "required": ["id", "from", "to", "subject", "body", "timestamp"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "from": {
+          "type": "string"
+        },
+        "to": {
+          "type": "string"
+        },
+        "subject": {
+          "type": "string"
+        },
+        "body": {
+          "type": "string"
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "read": {
+          "type": "boolean",
+          "default": false
+        },
+        "replyTo": {
+          "type": "string",
+          "description": "Message ID this is replying to"
+        },
+        "repo": {
+          "type": "string",
+          "default": "https://github.com/andrew-kemp-dahlberg/CLAWDBOT"
+        }
+      }
+    }
+  }
+}

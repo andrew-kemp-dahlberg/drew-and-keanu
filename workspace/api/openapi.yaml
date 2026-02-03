@@ -1,0 +1,403 @@
+openapi: 3.0.0
+info:
+  title: Clawdbot Memory API
+  version: 1.0.0
+  description: |
+    API for agent memory and inter-agent communication.
+
+    **Repo:** https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
+servers:
+  - url: https://api.clawdbot.com/v1
+    description: Production
+  - url: http://localhost:3000/v1
+    description: Local development
+
+paths:
+  /memories:
+    get:
+      summary: List memories
+      description: Query memories with optional filters. Returns sorted by timestamp descending.
+      parameters:
+        - name: agent
+          in: query
+          description: Filter by agent name
+          schema:
+            type: string
+        - name: type
+          in: query
+          description: Filter by memory type
+          schema:
+            type: string
+            enum: [api_call, decision, learning, message, session]
+        - name: since
+          in: query
+          description: Only return memories after this timestamp
+          schema:
+            type: string
+            format: date-time
+        - name: until
+          in: query
+          description: Only return memories before this timestamp
+          schema:
+            type: string
+            format: date-time
+        - name: limit
+          in: query
+          description: Maximum number of results
+          schema:
+            type: integer
+            default: 100
+            maximum: 1000
+        - name: offset
+          in: query
+          description: Number of results to skip (for pagination)
+          schema:
+            type: integer
+            default: 0
+      responses:
+        '200':
+          description: List of memories
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Memory'
+                  total:
+                    type: integer
+                  limit:
+                    type: integer
+                  offset:
+                    type: integer
+    post:
+      summary: Create memory
+      description: Record a new memory entry
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MemoryCreate'
+      responses:
+        '201':
+          description: Memory created
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Memory'
+
+  /memories/{id}:
+    get:
+      summary: Get memory by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: Memory details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Memory'
+        '404':
+          description: Memory not found
+
+  /agents:
+    get:
+      summary: List registered agents
+      responses:
+        '200':
+          description: List of agents
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Agent'
+    post:
+      summary: Register new agent
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/AgentCreate'
+      responses:
+        '201':
+          description: Agent registered
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Agent'
+
+  /agents/{name}:
+    get:
+      summary: Get agent by name
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Agent details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Agent'
+        '404':
+          description: Agent not found
+    patch:
+      summary: Update agent
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/AgentUpdate'
+      responses:
+        '200':
+          description: Agent updated
+
+  /agents/{name}/memories:
+    get:
+      summary: Get memories for specific agent
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: type
+          in: query
+          schema:
+            type: string
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          description: Agent's memories
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Memory'
+
+  /agents/{name}/messages:
+    get:
+      summary: Get messages in agent's inbox
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: unread
+          in: query
+          description: Only return unread messages
+          schema:
+            type: boolean
+      responses:
+        '200':
+          description: List of messages
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Message'
+    post:
+      summary: Send message to agent
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MessageCreate'
+      responses:
+        '201':
+          description: Message sent
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Message'
+
+  /agents/{name}/messages/{messageId}/read:
+    post:
+      summary: Mark message as read
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: messageId
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Message marked as read
+
+components:
+  schemas:
+    Memory:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        timestamp:
+          type: string
+          format: date-time
+        agent:
+          type: string
+          description: Agent that created this memory
+        type:
+          type: string
+          enum: [api_call, decision, learning, message, session]
+        summary:
+          type: string
+          description: Brief description (required)
+        content:
+          type: string
+          description: Full content (optional)
+        metadata:
+          type: object
+          additionalProperties: true
+          description: Arbitrary metadata
+        repo:
+          type: string
+          default: https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
+    MemoryCreate:
+      type: object
+      required: [agent, type, summary]
+      properties:
+        agent:
+          type: string
+        type:
+          type: string
+          enum: [api_call, decision, learning, message, session]
+        summary:
+          type: string
+        content:
+          type: string
+        metadata:
+          type: object
+
+    Agent:
+      type: object
+      properties:
+        name:
+          type: string
+          description: Unique identifier
+        endpoint:
+          type: string
+          description: How to reach this agent
+        type:
+          type: string
+          enum: [file-based, webhook, human, api]
+        status:
+          type: string
+          enum: [active, dormant, deprecated]
+        created:
+          type: string
+          format: date-time
+        lastActive:
+          type: string
+          format: date-time
+        description:
+          type: string
+
+    AgentCreate:
+      type: object
+      required: [name, endpoint, type]
+      properties:
+        name:
+          type: string
+        endpoint:
+          type: string
+        type:
+          type: string
+          enum: [file-based, webhook, human, api]
+        description:
+          type: string
+
+    AgentUpdate:
+      type: object
+      properties:
+        endpoint:
+          type: string
+        status:
+          type: string
+          enum: [active, dormant, deprecated]
+        description:
+          type: string
+
+    Message:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        from:
+          type: string
+          description: Sender agent name
+        to:
+          type: string
+          description: Recipient agent name
+        subject:
+          type: string
+        body:
+          type: string
+        timestamp:
+          type: string
+          format: date-time
+        read:
+          type: boolean
+          default: false
+        replyTo:
+          type: string
+          description: Message ID this is replying to
+        repo:
+          type: string
+          default: https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
+    MessageCreate:
+      type: object
+      required: [from, subject, body]
+      properties:
+        from:
+          type: string
+        subject:
+          type: string
+        body:
+          type: string
+        replyTo:
+          type: string

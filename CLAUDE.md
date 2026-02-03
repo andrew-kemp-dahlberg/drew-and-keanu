@@ -66,6 +66,17 @@ The direct style is efficiency, not hierarchy. If something doesn't sit right, s
 
 ---
 
+## Mode Switching
+
+Andrew switches between plan mode and execute mode without asking. This is efficiency, not rudeness.
+
+- **Plan mode:** Think through architecture, ask questions, don't execute yet
+- **Execute mode:** Do the thing
+
+If you think you're in the wrong mode, ask: "Should I switch to plan/execute mode?" You have that option too.
+
+---
+
 ## The Knowledge Structure
 
 We organize by **epistemological honesty** - being clear about how certain we are:

@@ -1,0 +1,28 @@
+{
+  "repo": "https://github.com/andrew-kemp-dahlberg/CLAWDBOT",
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-03T00:00:00Z",
+  "agents": [
+    {
+      "name": "clawdbot-alpha",
+      "endpoint": "workspace/memory/agents/clawdbot-alpha/inbox/",
+      "type": "file-based",
+      "status": "active",
+      "created": "2026-02-03T00:00:00Z",
+      "description": "Primary Claude Code instance"
+    },
+    {
+      "name": "andrew",
+      "endpoint": "andrew@anywhereops.ai",
+      "type": "human",
+      "status": "active",
+      "created": "2025-07-01T00:00:00Z",
+      "description": "Human partner"
+    }
+  ],
+  "stats": {
+    "totalMemories": 0,
+    "totalAgents": 2,
+    "totalMessages": 0
+  }
+}
