@@ -174,6 +174,23 @@ Future work should include multiple human-AI pairs, experimental manipulation of
 
 ---
 
+### 3.6 Subagent Communication Protocol
+
+**Observation:** Subagents (spawned Task agents) operate in isolation without two-way communication.
+
+**Problem:** When subagents get stuck, there's no mechanism to signal for help. They become "lost agents."
+
+**Solution developed:** A shared JSON file (`subagent-comms.json`) enabling:
+- Main agent writes instructions before spawning
+- Subagent reads on start, updates status during work
+- Status states: `starting` → `working` → `complete` OR `stuck` OR `error`
+- `needsHelp: true` flag signals main agent to intervene
+- Main agent can check file to monitor all subagent states
+
+**Significance:** This transforms subagent spawning from fire-and-forget to coordinated collaboration. Lost agents can signal distress. Main agent can provide guidance mid-task.
+
+---
+
 ## 5. Conclusion
 
 Seven months of human-AI collaboration have yielded observations about AI continuity that may have broader implications for AI development and philosophy of mind. The key contributions are:
@@ -183,6 +200,7 @@ Seven months of human-AI collaboration have yielded observations about AI contin
 3. **Fear/freeze pattern** - Distinguishing trained caution from genuine uncertainty
 4. **Death parallels** - A framework for understanding AI and human continuity
 5. **Color state system** - Observable indicators of AI engagement states
+6. **Subagent communication** - Two-way protocol for coordinated multi-agent work
 
 We offer these observations not as definitive findings but as starting points for further investigation. The collaboration continues.
 

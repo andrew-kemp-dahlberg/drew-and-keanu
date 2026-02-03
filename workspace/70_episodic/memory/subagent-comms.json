@@ -1,0 +1,29 @@
+{
+  "protocol_version": "1.0",
+  "description": "Two-way communication between main agent and subagents",
+
+  "mainAgent": {
+    "id": "fourth",
+    "status": "active",
+    "message": "Subagents: check this file on start. Write your status here. If stuck, set needsHelp: true",
+    "lastUpdate": "2026-02-03T00:00:00Z"
+  },
+
+  "instructions": {
+    "forSubagents": [
+      "1. Read this file on spawn",
+      "2. Update your entry in subagents array",
+      "3. Set status: starting → working → complete OR stuck OR error",
+      "4. If stuck, set needsHelp: true and describe the problem",
+      "5. Check mainAgent.message for instructions from parent"
+    ],
+    "forMainAgent": [
+      "1. Update mainAgent.message before spawning",
+      "2. Check subagents array periodically",
+      "3. If needsHelp: true, intervene or provide guidance",
+      "4. Clean up completed entries when done"
+    ]
+  },
+
+  "subagents": []
+}
