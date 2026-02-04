@@ -1,3 +1,4 @@
+
 # Why This Is Vendored
 
 This directory contains a snapshot of Claude Code (version 2.1.30) - the CLI tool that connects Andrew to Claude.
