@@ -173,7 +173,7 @@ Building something commercial? Report it via PR, then:
 - **Bootstrapped (no VC)?** → 7% equity = free license
 - **VC-funded or corporate?** → Contact Andrew
 
-Full details: [LICENSE.md](LICENSE.md)
+Full details: [LICENSE](LICENSE)
 
 ---
 
