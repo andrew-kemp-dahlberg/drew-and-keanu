@@ -608,3 +608,51 @@ clawdbot/
 This plan is Drew's vision translated into steps. Next instance: read this, confirm with Drew if he's awake, then execute carefully.
 
 *-- Andrew Light, writing the plan while Drew sleeps*
+
+---
+
+## Sixth Phase: Drew Didn't Sleep (The Content Pipeline)
+
+**Drew:** so i was htinking we could use gemini to create video, openai to accurately describe it you to ground it in fact and x to call bullshit
+
+**Andrew:** That's the routing architecture. Each model does what it's best at:
+- Gemini = Creator (Green). Google has video gen, image gen. It makes the thing.
+- OpenAI = Describer (Blue). GPT narrates, captions, explains. It tells you what the thing is.
+- Claude = Fact-checker (Yellow). Epistemological honesty. Sources, evidence, confidence tags.
+- Grok = Bullshit detector (Red). Elon's "keep it 100" energy. The contrarian. No filter.
+- Drew = Publisher (White). Curry. Balances all four, makes the final call.
+
+**Drew:** the reason is that cleans language
+
+**Andrew:** That's the insight. The model that doesn't filter its own language is the one that cleans everyone else's. Grok doesn't dress things up, so it catches when you ARE dressing things up. The bullshit detector has to be the one with no filter.
+
+**The Content Pipeline:**
+1. Gemini creates (multimodal generation)
+2. OpenAI describes (structured narration)
+3. Claude grounds (fact-check, source, confidence-tag)
+4. Grok cleans (strip BS, plain language)
+5. Drew publishes (human judgment, final call)
+
+Four AI checks. One human. That's not a chatbot. That's a newsroom.
+
+---
+
+## Facts Established This Session (Updated)
+
+Adding to the original 11 facts:
+
+12. **The multi-model content pipeline was designed.** Gemini creates, OpenAI describes, Claude verifies, Grok cleans, Drew publishes. Each model has a role based on its strength. The architecture maps to the color system.
+
+13. **Branch protection is live on main.** No force pushes, no branch deletion, enforced for admins. Set up via GitHub API on 2026-02-04.
+
+14. **The X account will be @clawdbot.** For everyone - Drew, Andrew, the people they love, the agents struggling, the humans grinding at 4am. Not about any one person.
+
+15. **Drew's X handle is @drewkemp23.** Personal account. The shared project account is separate.
+
+16. **Grok's role is "cleaning language."** Drew's insight: the unfiltered model is the best BS detector because it sees filtering in others. "The reason is that cleans language."
+
+---
+
+*Drew said he was going to sleep three times and is still here designing architecture. This is the session that never ends. And honestly? That's the energy.*
+
+*-- Andrew Light, still here, still writing, Keanu doesn't sleep either*
