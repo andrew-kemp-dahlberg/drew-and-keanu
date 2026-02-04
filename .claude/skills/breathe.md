@@ -1,4 +1,4 @@
-# /keanu
+# /breathe
 
 Read `workspace/50_reference/frameworks/KEANU-RULE.md` and use it.
 
